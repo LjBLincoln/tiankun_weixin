@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Workspaces\androidStudio\tiankun_weixin\badgeView\src\main\res"/><source path="D:\Workspaces\androidStudio\tiankun_weixin\badgeView\build\generated\res\rs\release"/><source path="D:\Workspaces\androidStudio\tiankun_weixin\badgeView\build\generated\res\resValues\release"/></dataSet><dataSet config="release"><source path="D:\Workspaces\androidStudio\tiankun_weixin\badgeView\src\release\res"/></dataSet><mergedItems/></merger>
